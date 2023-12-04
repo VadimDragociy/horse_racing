@@ -5,7 +5,7 @@
 #include <time.h>
 #include "cube.h"
 
-int random()
+int random()//функция для рандомных значений
 {
     srand(time(NULL));
 
